@@ -89,5 +89,5 @@
 
 3. 数据库逻辑结构设计  
 
-    [library.sql](project\library.sql)  （同时还含有一些初始数据，可用于测试功能）
+    [library.sql](https://github.com/cyjjj/Library-Management/blob/main/project/library.sql)  （同时还含有一些初始数据，可用于测试功能）
 
